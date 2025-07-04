@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Magda</h1>
-<h3 align="center">A passionate data analyst</h3>
+<h2 align="center">Hi 👋, I'm Magda</h2>
 
 - 🔭 I’m currently working on [extreme event modeling in R](https://github.com/mlamczyk/Extreme_events)
 
-- 🌱 I’m currently learning **non-relational databases**
+- 🌱 I’m currently learning **financial risk modeling**
 
-- 📫 How to reach me **lamczykmagdalena@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
